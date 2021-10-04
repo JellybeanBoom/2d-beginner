@@ -1,0 +1,924 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1237; Version 2009; 64bit' Language: 'en' Physical Memory: 16023 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/testi/Documents/GitHub/2d-beginner/Ruby's Adventure I Think
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50870
+Successfully changed project path to: C:/Users/testi/Documents/GitHub/2d-beginner/Ruby's Adventure I Think
+C:/Users/testi/Documents/GitHub/2d-beginner/Ruby's Adventure I Think
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 40.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/testi/Documents/GitHub/2d-beginner/Ruby's Adventure I Think/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:   
+    VRAM:     8011 MB
+    Driver:   27.20.100.9749
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56600
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001733 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 38.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.163 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001066 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 45.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.879 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.6 MB.
+System memory in use after: 84.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2250.
+Total: 2.849700 ms (FindLiveObjects: 0.252900 ms CreateObjectMapping: 0.058900 ms MarkObjects: 2.344700 ms  DeleteObjects: 0.190400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Art
+  artifactKey: Guid(7dc92abd333901a43ae8edc459c826d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art using Guid(7dc92abd333901a43ae8edc459c826d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73fb2782f844d104216cc477c950f9f4') in 0.007958 seconds
+  Import took 0.011226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/2DBeginner_Third-PartyNotice.txt
+  artifactKey: Guid(011b343a2a8a3ab498a9f593c0d65706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBeginner_Third-PartyNotice.txt using Guid(011b343a2a8a3ab498a9f593c0d65706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3f7f74095ab2fc4c33a46bdbd344d49') in 0.039842 seconds
+  Import took 0.042585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.705304 seconds.
+  path: Assets/Art/Sprites
+  artifactKey: Guid(393943900ba2b6c4cb80f5e4a5d0806c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Sprites using Guid(393943900ba2b6c4cb80f5e4a5d0806c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c97f20c78386dc2ff856480983d0a336') in 0.002570 seconds
+  Import took 0.005956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.132756 seconds.
+  path: Assets/Art/Sprites/Characters
+  artifactKey: Guid(ff0aa22beee37e947b64088c003dfa20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Sprites/Characters using Guid(ff0aa22beee37e947b64088c003dfa20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9477dbaf7562ae8b0bf3b00d138ce59e') in 0.003728 seconds
+  Import took 0.006861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.091637 seconds.
+  path: Assets/Art/Sprites/Characters/JambiSheet.png
+  artifactKey: Guid(255841382d607e24a8317d9ab167f414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Sprites/Characters/JambiSheet.png using Guid(255841382d607e24a8317d9ab167f414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ce571d8dee64e274f412d6294895373') in 0.144464 seconds
+  Import took 0.148206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Art/Sprites/Characters/RubySheet.png
+  artifactKey: Guid(c1dbff5bcb29cdd4bbb8de3a29f2328c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Sprites/Characters/RubySheet.png using Guid(c1dbff5bcb29cdd4bbb8de3a29f2328c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9ad8529161f28d5a40b51c48571a3a8') in 0.212793 seconds
+  Import took 0.215716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Art/Sprites/Characters/MrClockworkSheet.png
+  artifactKey: Guid(651c4abeb0812e74685da0e5a31c8dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Sprites/Characters/MrClockworkSheet.png using Guid(651c4abeb0812e74685da0e5a31c8dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1382000e8c08374391a4f749fbab3470') in 0.163358 seconds
+  Import took 0.167461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.390201 seconds.
+  path: Assets/Art/Sprites/Characters/7d1c06b8-7c73-44b4-8c41-3246b3ce8427_image4.png
+  artifactKey: Guid(411ec47389fab9c4a9a02bb01479d318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Sprites/Characters/7d1c06b8-7c73-44b4-8c41-3246b3ce8427_image4.png using Guid(411ec47389fab9c4a9a02bb01479d318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe8eda2b427e577ec155002da8bc79d6') in 0.021619 seconds
+  Import took 0.026029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 701.973464 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(5ec43ea56cf22a34ba64b001616be36c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(5ec43ea56cf22a34ba64b001616be36c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcc528e91246ce37f4bda4cf9130d0c0') in 0.006262 seconds
+  Import took 0.012119 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001077 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.956 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.7 MB.
+System memory in use after: 87.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2265.
+Total: 1.869100 ms (FindLiveObjects: 0.235200 ms CreateObjectMapping: 0.042700 ms MarkObjects: 1.464400 ms  DeleteObjects: 0.125100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.312669 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9877b6225c89c1c7c24083b85f40c49') in 0.021990 seconds
+  Import took 0.024672 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001608 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.838 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.7 MB.
+System memory in use after: 87.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2269.
+Total: 2.528300 ms (FindLiveObjects: 0.261100 ms CreateObjectMapping: 0.058600 ms MarkObjects: 2.059000 ms  DeleteObjects: 0.147800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 407.457326 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001408 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.004406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050061 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000315 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.003182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032288 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000303 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.002924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031462 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000404 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.003842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024953 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000333 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.003031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019336 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000283 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.002982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018409 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000688 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.004327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036036 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000281 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.002678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029900 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000279 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.003397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023186 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000570 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.003924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028366 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000501 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.004167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021598 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000284 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.002697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029357 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000275 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.002715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031200 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000387 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.003002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035847 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000320 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.003250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024537 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000296 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.002939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029605 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000284 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.003072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026149 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000507 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.004715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018971 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000296 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.003145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019072 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000429 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.002901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020381 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000345 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.005451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025532 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000388 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.004126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026293 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000322 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.002852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031575 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000273 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.003019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030167 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000333 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.003271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.117009 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000293 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.003011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033719 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000644 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.004417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024956 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000317 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.003268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029885 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000376 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.004115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029219 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000344 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.003291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029835 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000354 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.003025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030792 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000484 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.004878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.128581 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000392 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.003958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030429 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000319 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:17.0478436Z'
+  Import took 0.003042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031092 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000355 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.004106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019655 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000293 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.002878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026344 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000307 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.002841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027401 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000297 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.002908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020075 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000500 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.004496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023265 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000323 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.003191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019618 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000569 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.005425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025761 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000312 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.002909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017888 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000338 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.003511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025614 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000299 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.002906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024106 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000446 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.004328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039324 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000548 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.004911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023779 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000358 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.004465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017537 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000681 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.004454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026373 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000470 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.004025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037015 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000536 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.005046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023463 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001370 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.006988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030451 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000424 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.003081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033238 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000340 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.003622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028318 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000410 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.004951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.116949 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000545 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.004416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028683 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000311 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.002753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024892 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000381 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.003420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034201 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000734 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.010051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.128845 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000309 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.003488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036338 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000335 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.003032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041210 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000285 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.003194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029670 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000293 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.003064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035905 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000637 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.005143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025433 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000301 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.002873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020852 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000630 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.004623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021754 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000300 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.003146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022026 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000463 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.004170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026560 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000280 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.002768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023603 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000374 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.004437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022106 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000316 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.003024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034645 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000546 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.003811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031562 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000430 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.003562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024171 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000660 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.005303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024249 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000358 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.002935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033403 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000518 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.004564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027728 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000797 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.005721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030755 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000542 seconds
+  ERROR: Build asset version error: assets/scripts/rubycontroller.cs in SourceAssetDB has modification time of '2021-10-04T21:23:15.3612489Z' while content on disk has modification time of '2021-10-04T21:27:18.4170332Z'
+  Import took 0.005025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.088928 seconds.
+  path: Assets/Scripts/RubyController.cs
+  artifactKey: Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RubyController.cs using Guid(edf80702563b5de45b9cb707fb7e3664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1068ab9fa677a8bb27f5a6bef71d60a1') in 0.011707 seconds
+  Import took 0.015398 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001152 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.794 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.8 MB.
+System memory in use after: 87.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2273.
+Total: 2.481000 ms (FindLiveObjects: 0.206200 ms CreateObjectMapping: 0.038400 ms MarkObjects: 2.115100 ms  DeleteObjects: 0.119900 ms)
+
